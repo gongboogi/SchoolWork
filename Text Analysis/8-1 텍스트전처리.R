@@ -1,7 +1,7 @@
 ## 텍스트 분석 8-1 텍스트전처리
+# 텍스트 전처리 - 텍스트 분석하는 데 불필요한 요소를 제거하고 다루기 쉬운 형태로 변환하는 과정
 
-
-file=file.choose()
+file=file.choose() #문재인 대통령의 출마 선언문 내용을 바탕으로 전처리 해보기
 #readLines: 텍스트를 줄 별로 읽는다.
 raw_moon <- readLines(file, encoding = "UTF-8")
 
