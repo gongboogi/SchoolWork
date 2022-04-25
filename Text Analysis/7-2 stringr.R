@@ -1,5 +1,4 @@
 ## 텍스트 분석 7-2 stringr()
-## 2016666 공아영 
 
 ### String 패키지: 직관적임. 인자가 동일함
 install.packages("stringr")
