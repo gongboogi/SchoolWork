@@ -1,6 +1,5 @@
 ## 텍스트 분석 6-1 텍스트 전처리 복습 
 
-
 p1 <- "You come at four in the afternoon, then at three I shall bebine to be happy"
 p2 <- "One runs the irst of weeping a litter, if one lets himeslf be tamed"
 p3 <- "What makes the desert beautiful is that somewhere it hides a well"
