@@ -1,5 +1,4 @@
-## 텍스트 분석 6-1 텍스트 전처리 복습
-## 2016666 공아영 
+## 텍스트 분석 6-1 텍스트 전처리 복습 
 
 
 p1 <- "You come at four in the afternoon, then at three I shall bebine to be happy"
