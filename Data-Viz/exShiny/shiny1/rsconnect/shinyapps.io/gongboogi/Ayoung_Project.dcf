@@ -1,0 +1,14 @@
+name: Ayoung_Project
+title: Ayoung_Project
+username:
+account: gongboogi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6389726
+bundleId: 5955521
+url: https://gongboogi.shinyapps.io/Ayoung_Project/
+when: 1653769401.27637
+lastSyncTime: 1653769401.27637
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R|app1.R|fonts
