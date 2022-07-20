@@ -1,5 +1,5 @@
 #viz children happiness
-
+ 
 #현재행복정도및행복하지않은이유
 
 library(dplyr)
